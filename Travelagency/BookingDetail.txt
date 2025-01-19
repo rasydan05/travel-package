@@ -1,0 +1,9 @@
+            Your Booking Detail     
+
+------------------------------------------
+   No          Participant     
+   1          haziq
+   2          rasydan
+------------------------------------------
+
+Date Travel > 7 / 10 / 2005

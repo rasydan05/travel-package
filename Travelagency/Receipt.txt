@@ -1,0 +1,6 @@
+
+--- Payment Bill ---
+Package: 1
+Price per person: RM1200.00
+Number of People: 2
+Total Price: RM2400.00
