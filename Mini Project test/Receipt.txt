@@ -1,0 +1,6 @@
+
+--- Receipt ---
+Customer ID : 1
+Package: 2
+Amount Paid: $5000
+----------------

@@ -1,0 +1,6 @@
+
+--- Payment Bill ---
+Package: 2
+Number of People: 2
+Total Price: RM0
+Your Customer ID = 1 
